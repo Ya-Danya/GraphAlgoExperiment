@@ -1,10 +1,6 @@
-#include <iostream>
-#include "GraphAlgorithms.h"
-#include <vector>
+#include "header.h"
+
 #define N 10000
-
-
-using namespace std;
 
 vector<vector <int>> graf(N, vector<int>(N));
 

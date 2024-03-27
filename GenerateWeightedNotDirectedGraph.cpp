@@ -1,10 +1,4 @@
-#include <iostream>
-#include <vector>
-#include <random>
-
-using std::vector;
-using std::endl;
-using std::cout;
+#include "header.h"
 
 #define N 100000 // количество вершин в графе
 #define edge_probability 0.001 //вероятность появления ребра

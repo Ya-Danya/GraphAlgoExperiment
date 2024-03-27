@@ -1,6 +1,4 @@
-#include <iostream>
-#include <vector>
-#include <random>
+#include "header.h"
 
 void generateWeightedDirectedGraph(std::vector<std::vector<int>>& graph, int numVertices) {
     std::random_device rd;

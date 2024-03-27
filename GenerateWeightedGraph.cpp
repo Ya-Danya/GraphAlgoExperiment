@@ -1,8 +1,4 @@
-#include <iostream>
-#include <vector>
-#include <cstdlib>
-#include <ctime>
-#include <chrono>
+#include "header.h"
 
 #define N 10000 // количество вершин в графе
 #define edge_probability 0.001 // вероятность появления ребра

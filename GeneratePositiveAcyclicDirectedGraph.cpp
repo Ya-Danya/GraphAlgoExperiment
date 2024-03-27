@@ -1,10 +1,5 @@
-#include <iostream>
-#include <vector>
+#include "header.h"
 #define N 100000
-
-using std::vector;
-using std::endl;
-using std::cout;
 
 vector<vector <long long int>> graf(N, vector<long long int>(N));
 
